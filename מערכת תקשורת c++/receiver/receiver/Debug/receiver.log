@@ -1,0 +1,5 @@
+﻿  receiver.cpp
+  tryServer.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\receiver\receiver\tryServer.cpp(12): error C2011: 'tryServer': 'class' type redefinition
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\receiver\receiver\tryServer.h(2): note: see declaration of 'tryServer'
+  Generating Code...

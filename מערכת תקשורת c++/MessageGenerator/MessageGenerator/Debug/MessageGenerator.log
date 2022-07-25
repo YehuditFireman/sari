@@ -1,0 +1,6 @@
+﻿  MessageGenerator.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\MessageGenerator\MessageGenerator\RX.cpp(7): warning C4005: 'PORT': macro redefinition
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\MessageGenerator\MessageGenerator\TX.cpp(8): note: see previous definition of 'PORT'
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\MessageGenerator\MessageGenerator\RX.cpp(13): warning C4005: 'PORT': macro redefinition
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\MessageGenerator\MessageGenerator\RX.cpp(7): note: see previous definition of 'PORT'
+  MessageGenerator.vcxproj -> C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\MessageGenerator\Debug\MessageGenerator.exe

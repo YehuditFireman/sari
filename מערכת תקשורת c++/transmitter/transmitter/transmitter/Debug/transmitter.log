@@ -1,0 +1,10 @@
+﻿  Manager.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\Manager.cpp(19): error C2660: 'UDPclient::send': function does not take 0 arguments
+  C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPclient.h(17): note: see declaration of 'UDPclient::send'
+  transmitter.cpp
+  UDPclient.cpp
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPclient.cpp(22): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\WinSock2.h(1831): note: see declaration of 'inet_addr'
+  UDPserver.cpp
+  Generating Code...
+C:\Users\1\Desktop\תעשייה אוירית\מערכת תקשורת c++\transmitter\transmitter\transmitter\UDPserver.cpp(43): warning C4172: returning address of local variable or temporary: message
